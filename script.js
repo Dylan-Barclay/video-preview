@@ -1,6 +1,6 @@
 function over(element){
-    .play()
+    element.play()
 }
 function out(element){
-    .pause()
+    element.pause()
 }
